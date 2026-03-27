@@ -3,5 +3,4 @@
 // modèle
 // année
 // Affiche la marque
-
-console.log("Exercice 1 :");
+//Ajoute une propriété couleur à l’objet précédent.
